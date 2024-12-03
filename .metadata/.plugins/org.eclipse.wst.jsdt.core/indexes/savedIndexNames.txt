@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\Admin\OneDrive\Máy tính\javaWeb\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2169127445.index
+54703828.index
+3215406452.index
+2771184878.index
+1217140455.index
+520743835.index
+434827415.index

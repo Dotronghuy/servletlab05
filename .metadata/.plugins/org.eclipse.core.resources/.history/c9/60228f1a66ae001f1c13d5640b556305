@@ -1,0 +1,12 @@
+3.	package com.example;
+4.	
+5.	import java.io.IOException;
+6.	import javax.servlet.*;
+7.	import javax.servlet.http.*;
+8.	
+9.	public class HelloServlet extends HttpServlet {
+10.	    protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+11.	        resp.setContentType("text/html");
+12.	        resp.getWriter().write("<h1>Xin chào, đây là Servlet đầu tiên của bạn!</h1>");
+13.	    }
+14.	}

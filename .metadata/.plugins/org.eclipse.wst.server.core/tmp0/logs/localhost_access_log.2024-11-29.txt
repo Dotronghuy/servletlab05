@@ -1,0 +1,13 @@
+127.0.0.1 - - [29/Nov/2024:22:21:27 +0700] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [29/Nov/2024:22:21:46 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [29/Nov/2024:22:21:46 +0700] "GET /helloworld/index.html HTTP/1.1" 200 202
+0:0:0:0:0:0:0:1 - - [29/Nov/2024:22:21:47 +0700] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [29/Nov/2024:22:25:18 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [29/Nov/2024:22:25:18 +0700] "GET /helloworld/servlet/HelloServlet.HelloServlet HTTP/1.1" 404 803
+127.0.0.1 - - [29/Nov/2024:22:31:43 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [29/Nov/2024:22:31:43 +0700] "GET /helloworld/servlet/HelloServlet HTTP/1.1" 404 790
+127.0.0.1 - - [29/Nov/2024:22:33:11 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [29/Nov/2024:22:33:11 +0700] "GET /helloworld/servlet/HelloServlet HTTP/1.1" 404 790
+0:0:0:0:0:0:0:1 - - [29/Nov/2024:22:33:32 +0700] "GET /helloworld/servlet/HelloServlet HTTP/1.1" 404 790
+127.0.0.1 - - [29/Nov/2024:22:45:18 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [29/Nov/2024:22:45:18 +0700] "GET /helloworl2/WEB-INF/classes/HelloServlet.java HTTP/1.1" 404 682
